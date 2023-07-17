@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 ### <br>Welcome Visitor ![Visitor Count](https://profile-counter.glitch.me/{diarisdiakite}/count.svg) !!!
 
 
-
 <br><br>
 ## Please go ahead and visit my 🌐 socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/diarisdiakite) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diarisdiakite) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/diarisdiakite) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/diarisdiakite) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/diarisdiakite) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diariatou-diakite-67ab80165/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/diarisdiakite) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/diarisdiakite) 
 
 
 <br>
@@ -47,7 +46,7 @@ Here are some ideas to get you started:
 - 📫 Meet tight deadlines
 - 📫 Be client-oriented
 - 📫 Be patient, resilient and result oriented
-- main IT projects developed: [TrEM](https://Training-For-Employment), [Siyb_acc_V001](), [ACE](ace.org), [MagegroupInt](), [ArtemMali](); Databases for SMSE.   
+- main IT projects developed: TrEM (Training-For-Employment) Database, Start and Improve Your Business accounting _ V001, Actions Culture of Excellence (ace.org), MagegroupInt website and Databases, + Databases for SMSE.   
 ```
 
 ```[Addicted-learner]
