@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ```
 
 ```[Addicted-learner]
-3 years Experience working for a United Nations Agency: 
+3 years of Experience working for a United Nations Agency: 
 - 📫 Apply Result Based Management concepts in projects and programs design
 - 📫 Monitoring and evaluation and reporting
 - main IT projects developed: M&E-APP.
