@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <br><br>
 ## Please go ahead and visit my 🌐 socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/diarisd](https://www.facebook.com/diarisd/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diariatou-diakite-67ab80165/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/diarisdiakite) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/diarisdiakite) [![Wellfound](https://img.shields.io/badge/Angelist-%231DA1F2.svg?logo=Twitter&logoColor=white)]([[https://twitter.com/diarisdiakite](https://wellfound.com/u/diariatou-diakite)](https://wellfound.com/u/diariatou-diakite)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diariatou-diakite-67ab80165/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/diarisdiakite) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/diarisdiakite) [![Wellfound](https://img.shields.io/badge/Angelist-%231DA1F2.svg?logo=AngelList&logoColor=white)](https://wellfound.com/u/diariatou-diakite)
 
 
 <br>
