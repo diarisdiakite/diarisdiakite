@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 
 
-# 👋 Hi there I am Diariatou, Didy for family friends and GitHub visitors 😄👋 
+# 👋 Hi there I am Diariatou, Didy for family, friends and GitHub visitors 😄👋 
 ### <br>Welcome Visitor ![Visitor Count](https://profile-counter.glitch.me/{diarisdiakite}/count.svg) !!!
 
 
 <br><br>
 ## Please go ahead and visit my 🌐 socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diariatou-diakite-67ab80165/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Diariatou-Diakite) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/diarisdiakite) [![Wellfound](https://img.shields.io/badge/Angelist-%231DA1F2.svg?logo=AngelList&logoColor=white)](https://wellfound.com/u/diariatou-diakite)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diariatou-diakite-67ab80165/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Diariatou-Diakite) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/diarisdiakite) [![Wellfound](https://img.shields.io/badge/AngelList-%231DA1F2.svg?logo=AngelList&logoColor=white)](https://wellfound.com/u/diariatou-diakite)[![Medium](https://img.shields.io/badge/Medium-%231DA1F2.svg?logo=Medium&logoColor=white)](https://rubydd.medium.com/)
 
 
 <br>
